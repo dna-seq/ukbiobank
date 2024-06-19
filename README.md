@@ -1,2 +1,2 @@
 # ukbiobank
-Scripts for working with ukb platform
+Notebooks and data for working with ukb platform
